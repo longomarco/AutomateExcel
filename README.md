@@ -12,4 +12,4 @@ This whole process is done automatically by running the AutoExcel.bat file.
 
 The project could be further expanded by considering several possibilities: the script could ask the user if he or she is interested in emailing the said excel file, as well as automatically create charts to attach to the report; the possibilities are many.
 
-<img src="./Gif/AutoExcel2.gif" alt="Demo GIF">
+<img src="./Gif/AutoExcel2.gif" alt="Demo2 GIF">
