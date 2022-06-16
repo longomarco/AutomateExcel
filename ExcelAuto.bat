@@ -1,0 +1,2 @@
+py ExcelAuto.py
+pause
