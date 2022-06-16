@@ -8,6 +8,6 @@ The script I have written basically does this: first it goes and searches for fi
 
 This whole process is done automatically by running the AutoExcel.bat file.
 
-<img src="./AutoExcel.gif">
+[![AutoExcel.gif](https://s8.gifyu.com/images/AutoExcel.gif)](https://gifyu.com/image/SH6vo)
 
 The project could be further expanded by considering several possibilities: the script could ask the user if he or she is interested in emailing the said excel file, as well as automatically create charts to attach to the report; the possibilities are many.
